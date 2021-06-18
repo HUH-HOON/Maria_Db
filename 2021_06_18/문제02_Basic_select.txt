@@ -1,0 +1,25 @@
+
+Use sqldb; 
+
+ 
+1. usertbl 테이블에서  이름이 '조'로 시작되는 회원의 userID, name, addr,birthYear  출력. 
+   단,  birthYear 오름차순 별로 출력  	 
+  
+  
+2. buytbl 테이블에서  prodName과 price 출력. 
+    단, 중복은 제거하고 출력. 
+    price 이 비싼 제품 부터 출력 
+
+
+3.  buytbl 테이블에서  price에서 50에서 200 사이의 prodName 출력 
+
+
+4. buytbl 테이블에서  userID가 BBK이거나 JYP이거나 KBS 인 회원이 
+    구입한 상품중 가장 비싼 것은? 
+
+
+5. buytbl 테이블에서 prodName 별   amount 합은? 
+
+
+6. buytbl 테이블에서  groupName 별 amount 평균은?  
+
