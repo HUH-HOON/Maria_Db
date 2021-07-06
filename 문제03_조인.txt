@@ -1,0 +1,24 @@
+Use employees ; 
+1.  모든 부서의 이름(departments.dept_name)과  그 부서에 근무하는 모든 사원의 이름(employees.first_name 과 employees.last_name )을 출력하세요.   
+ 
+
+2.  d007번 부서의 이름(departments.dept_name)과  그 부서에 근무하는 모든 사원의 이름(employees.first_name  과 employees.last_name )을 출력하세요.
+ 
+
+3.  d007번 부서의 이름(departments.dept_name)과 그 부서에 근무하는 모든 사원 중 남자인 사원의 모든 사원의 이름(employees.first_name  과 employees.last_name )을 출력하세요.
+ 
+4.  d007번 부서의 이름(departments.dept_name)과 그 부서에 근무하는 모든 사원 중 남자이고, 2000년에 입사한모든 사원의 이름(employees.first_name  과 employees.last_name )을 출력하세요.
+ 
+
+5.  d007번 부서의 이름(departments.dept_name)과 그 부서에 근무하는 모든 사원 중 남자이고, 2000년에 입사한모든 사원의 이름(employees.first_name  과 employees.last_name )을 출력하세요. 
+단, 사원이름(employees.first_name) 오름차순으로 정렬하여 출력하세요 .
+ 
+ 
+6,   Staff 업무(titles.title) 로 근무한 적이 있는 모든 사원의 이름(employees.first_name  과 employees.last_name )을 출력하세요. 
+  
+  
+7.   Staff 업무(titles.title) 로 근무한 적이 있는 모든 사원의 평균 급여(salaries.salary) 를 출력하세요. 
+ 
+8.  업무(titles.title) 별로  사원들의 평균 급여(salaries.salary) 를 출력하세요. 
+
+
